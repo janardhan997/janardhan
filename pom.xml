@@ -36,7 +36,7 @@
 <username>janardhan97</username>
 <password>Jana@123456789</password>
 <environment>Sandbox</environment>
-<applicationName>janardhan</applicationName>
+<applicationName>janardhan-mule-project</applicationName>
 <workers>1</workers>
 <workerType>Micro</workerType>
 <objectStoreV2>true</objectStoreV2>
